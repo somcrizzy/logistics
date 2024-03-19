@@ -1,0 +1,28 @@
+body{
+  font-family: lato;
+}
+.btn-danger{
+  background-color: red;
+}
+.Hero{
+  background: url(../src/assets/hero.png);
+  background-position: center;
+  height: 400px;
+  background-repeat: no-repeat;
+ 
+  
+}
+.bg-cover{
+  background: url(../src/assets/hero1.png);
+  background-position: center;
+  height: 200px;
+  background-repeat: no-repeat;
+ 
+  
+}
+.bg-danger{
+  background-color: red;
+  height: 6px;
+  width: 200px;
+  border-radius: 5px;
+}
